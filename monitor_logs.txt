@@ -1,0 +1,50 @@
+------------------------------------------------------------
+SERVICE NAME                        STATUS         
+------------------------------------------------------------
+acpid.service                       running        
+chrony.service                      running        
+cron.service                        running        
+dbus.service                        running        
+fwupd.service                       running        
+getty@tty1.service                  running        
+irqbalance.service                  running        
+ModemManager.service                running        
+multipathd.service                  running        
+networkd-dispatcher.service         running        
+polkit.service                      running        
+rsyslog.service                     running        
+serial-getty@ttyS0.service          running        
+snap.amazon-ssm-agent.amazon-ssm-agent.service running        
+snapd.service                       running        
+ssh.service                         running        
+systemd-journald.service            running        
+systemd-logind.service              running        
+systemd-networkd.service            running        
+systemd-resolved.service            running        
+systemd-udevd.service               running        
+udisks2.service                     running        
+unattended-upgrades.service         running        
+user@1000.service                   running        
+------------------------------------------------------------
+
+CPU USAGE
+------------------------------------------------------------
+METRIC                         VALUE               
+------------------------------------------------------------
+CPU Usage                      3.3%                
+CPU Cores                      2                   
+------------------------------------------------------------
+
+MEMORY USAGE
+------------------------------------------------------------
+TYPE            TOTAL        USED         AVAILABLE   
+------------------------------------------------------------
+RAM             908Mi        325Mi        583Mi       
+------------------------------------------------------------
+
+DISK USAGE
+------------------------------------------------------------
+FILESYSTEM      TOTAL        USED         AVAILABLE    USE%      
+------------------------------------------------------------
+/dev/root       6.7G         2.7G         4.0G         40%       
+------------------------------------------------------------
